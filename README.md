@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me: madhavansankar007@gmail.com
+- ⚡ Fun fact: Life is Tricky...:)
 <!--
 **Madhavan-Sankar/Madhavan-Sankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
